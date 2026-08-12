@@ -16,7 +16,7 @@ A Power BI-based analytics suite for hospital operations, patient flow, departme
 
 ## Dashboard Previews
 
-*(Export each dashboard as a PNG from Power BI — File → Export → Image — and drop them in a `docs/` or `screenshots/` folder, then update the paths below.)*
+
 
 **1. Executive Hospital Performance**
 <img width="1305" height="737" alt="Executive Hospital Performance dashboard" src="https://github.com/user-attachments/assets/d2b4761c-932d-4aae-8943-1c224f2e04d0" />
